@@ -1,9 +1,3 @@
-/*************************************************************************************|
-|   1. YOU ARE NOT ALLOWED TO SHARE/PUBLISH YOUR CODE (e.g., post on piazza or online)|
-|   2. Fill mipssim.c                                                                 |
-|   3. Do not use any other .c files neither alter mipssim.h or parser.h              |
-|   4. Do not include any other library files                                         |
-|*************************************************************************************/
 
 #include "mipssim.h"
 
